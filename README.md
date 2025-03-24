@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨‍💻 Nicolas Cunha
 
-<!--
-**NicolasCunha328/NicolasCunha328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como técnico de desktops e notebooks
+- 🌱 Estudando Java
+- 💬 Meu email para contato: nico124cunha@gmail.com
 
-Here are some ideas to get you started:
+#
+  
+### 🛠️ Tecnologias e Ferramentas
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F7B93E.svg?style=for-the-badge&logo=java&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 📊 Status GitHub
+</div>
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKayoS&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKayoS&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+#
+
+### ✉️ Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dos-santos-cunha-56b29720b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas124cunha@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cunha_980/)
